@@ -1,4 +1,4 @@
-# Scania (Airbnb Fork) CSS-in-JavaScript Style Guide
+# Corporate (Airbnb Fork) CSS-in-JavaScript Style Guide
 
 *A mostly reasonable approach to CSS-in-JavaScript*
 
