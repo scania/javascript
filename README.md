@@ -1,4 +1,4 @@
-# Scania (Airbnb Fork) JavaScript Style Guide() {
+# Corporate (Airbnb Fork) JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
 
